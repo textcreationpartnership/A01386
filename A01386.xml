@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Salutem in Christo</title>
+            <author>R. G.</author>
+         </titleStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A01386</idno><idno type="EEBO-CITATION">24494103</idno>
+  <idno type="VID">22817</idno>
+  <idno type="EEBO-PROQUEST">2264218298</idno>
+  <idno type="STC">STC 11505.5</idno>
+  <idno type="STC">STC 11505_INCORRECT</idno>
+  <idno type="STC">ESTC S121984</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A01386)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 22817)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 284:8 or 1852:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Salutem in Christo</title>
+                  <author>R. G.</author>
+               </titleStmt>
+               <extent>[10] p.   </extent>
+               <publicationStmt>
+                  <publisher>J. Day,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1571]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>T.p. lacking?; caption title from signature A₃r.</note>
+                  <note>Signed at end: R.G.</note>
+                  <note>Publisher suggested by STC (2nd ed.)</note>
+                  <note>Letter on Duke of Norfolk's imprisonment dated at end: At London the xiij of October 1571.</note>
+                  <note>Text begins: Good men and euill delite in contraryes.</note>
+                  <note>Item at reel 284:8 identified as STC 11505.</note>
+                  <note>Reproductions of original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Norfolk, Thomas Howard, --  Duke of, 1538-1572.</term>
+               <term type="geographic_name">Great Britain --  History --  Elizabeth, 1558-1603.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1558-1603.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:22817:1"/>
+            <pb facs="tcp:22817:1"/>
+            <opener>
+               <salute>Salutem in Christo.</salute>
+            </opener>
+            <p>GOod men and euill delite in contra<g ref="char:EOLhyphen"/>ryes. The good in séeking for trueth, and maintenance therof: Euyll, in hiding of Trueth, and oppressing therof: And so consequently to publish Trueth, is to please the good, and to displease the euil. Wherfore, hearing y<seg rend="sup">t</seg> amongest the cōmon sortes of men at this time: it is not certain<g ref="char:EOLhyphen"/>ly knowen what is the cause that y<seg rend="sup">e</seg> Duke of Norffolk is newly cōmitted to y<seg rend="sup">e</seg> Towre and sundrie others: And knowynge that good men wil be wel satisfied to vnderstand the truth, which euyl men wold coouer and oppresse: I could not but in conscience to satisfie the good, and bridle or stop the lyeng and open sclaunderous mouthes of the euil and seditious, notifie thus much to you, wherby you maye also cōmunicate y<seg rend="sup">e</seg> same to others, for that it is likely that false and sclaunderous reportes wil be readily made hereof to serue the appetites of the euyll disposed.</p>
+            <p>First, it is not vnknowē that the Duke of Norffolke did of late yeares secretly pra<g ref="char:EOLhyphen"/>ctise to haue maryed w<seg rend="sup">t</seg> the Scottish quéene without the knowledge of the Quéenes Maiestie our Souraigne Lady.</p>
+            <pb facs="tcp:22817:2"/>
+            <p> It is not also vnknowne y<seg rend="sup">t</seg> the said Scot<g ref="char:EOLhyphen"/>tish Quéene hath ben the moste dangerous ennemy against the Quéenes Maiestie our Soueraigne Lady, that liued, in that shée sought to haue the Crowne of England frō her Maiestie, immediatlye after Quéene Maryes death.</p>
+            <p>It is also well knowne that whan shée could not get it, neither by force norcon<g ref="char:EOLhyphen"/>nyng, she solempnly promised to acknow<g ref="char:EOLhyphen"/>ledge her error, and to recognise the verye true right to be iustly in the Quéenes Ma<g ref="char:EOLhyphen"/>iestie our Soueraygne Ladye to whom the same belongeth, as lawfull Daughter and Heire to kinge Henry the eight her Father and so also by the Lawes of y<seg rend="sup">e</seg> Realme per<g ref="char:EOLhyphen"/>fectly established, to succéede king Edward the sirte her Brother, and Queene Marye her Elder Sister, and by the Homage of all her Nobles, Prelates, and People as duly acknowledged at her Coronation, as euer any kyng of England was in any for<g ref="char:EOLhyphen"/>mer tyme: And in very déede, as worthye a Prince for this Realme for her Clemencie and goodnes in gouernmēt as euer raigned</p>
+            <p>It is also knowen y<seg rend="sup">t</seg> the Scottish Quéene hath not yet perfourmed her promise, but with fryuolous answeares hath delayed it,
+<pb facs="tcp:22817:2"/>Neither is it of any force to be demaunded, or worth the hauyng, if she would yelde too perfourme it. For neither can shée y<seg rend="sup">t</seg> could not gette this Realme when shée sought it wrongfully, nor kéepe her owne when shée had it quietly, amende the Quéenes Maie<g ref="char:EOLhyphen"/>sties estate: which is fully perfect: nor yet is any thyng that she should promise, to be holden firme and durable: but as time shall giue her cause to kéepe it or breake it.</p>
+            <p>It is also said and credibly avowed that the Scottish Quéene, was y<seg rend="sup">e</seg> greatest cause of the Rebellion lately in the North, wher by some noble houses that had serued this Realme, partly by them selues, &amp; speciallye by their Auncestors valiantlye against the Scottes, were now by connyng practise of this Scottish Ladye beynge depriued of her kingdome, inticed to ouer throw them sel<g ref="char:EOLhyphen"/>ues and their Houses, with a multitude of more English Subiectes than she coulde haue don by Armes in the Field, yf she had bene in possession of her Kingdome.</p>
+            <p>It is also knowne, notwithstan<g ref="char:EOLhyphen"/>dynge this, that the Quéenes Maiestie, beyng voyde of a reuenginge Nature, (as in all Actes hath so appeared that some sorts of wyse men haue noated
+<pb facs="tcp:22817:3"/>it a faulte for a Prince) did labour to haue restored her to her Country (as in déede the Quéenes Maiestie was the cause of sa<g ref="char:EOLhyphen"/>uinge of her lyfe, after the murder of her husband) with composition betwixt her and her sonne the kyng, and y<seg rend="sup">e</seg> States &amp; people of that Realme, therby to put som good end to the Ciuill warres in the same.</p>
+            <p>It is also knowen, that the Quéene of Scottes did vpon the first apprehension of the Duke of Norffolke by wrytinges to the Quéenes Maiestie, vtterly renownce the Duke of Norffolke and his Maryage, with some Noate that she did not of her selfe first mooue it, nor yet lyke it. And se did the Duke him self, after his first apprehension: by many messages, and by special writing directed to the Quéenes Maiestie, humbly and penitentlye acknowledge his offence in séeking to mary w<seg rend="sup">t</seg> the Scottish Quéene, and did firmely vnder his hand and Seale promyse neuer to deale therin any further, or in any other matter with that Quéene.</p>
+            <p>And now it is certainly founde, that the former practise betwixte that Quéene and the Duke, notwithstandyng their seuerall renunciations and firme promises to the contrarye, hath had continuance without
+<pb facs="tcp:22817:3"/>interruption by secret meanes of sūdry euil parsons, both all the tyme that the Duke was first in Prison in the Tower: and also euer since, whan he was committed to his owne House, vntill he was nowe newlye committed to the Tower.</p>
+            <p>But how dangerous soener this attempt may be iudged in them to cōtinue the secret practise and intention to marry agaynst the Quéenes Maiesties wyll, and the expecta<g ref="char:EOLhyphen"/>cion of all that be knowen duetyfull Sub<g ref="char:EOLhyphen"/>iectes to her Maiestie, and true friendes to the Duke: That maye best appeare by the daungerous practises that haue accompa<g ref="char:EOLhyphen"/>nied and folowed this attempte, which Al<g ref="char:EOLhyphen"/>mighty God hath maruelously discouered, to the safety of her Maiesties person &amp; pre<g ref="char:EOLhyphen"/>seruation of the Realme.</p>
+            <p>It was deuised &amp; determyned that a new Rebellion should be mooued néere London. The Cittie should be taken by force and possessed: In the meane time, a nomber of Strangers men of warre, shuld be brought by Sea from the low Countreyes beyond the Seas, to a notable Port of this Realme méete for the purpose, and so both forces of ennemies and Rebelles should ioyne, and than procéede to further thynges than is
+<pb facs="tcp:22817:4"/>expedient (as I heare) to be spoken off at this tyme.</p>
+            <p>These deuises were not onely talked off, put in waitinge, and fully concluded, but the Messengers, were also sent ouer Sea in Lent last, with sufficient Authoritie of com<g ref="char:EOLunhyphen"/>myssion and writynges to testifie the deter<g ref="char:EOLhyphen"/>mination of them that should be the heades and conductors of this Rebellion, as the same beynge imparted on the other side the Sea, was wel excepted &amp; allowed: and ther of seuerall Letters were spéedilye written to the seyd Quéene, &amp; to the Duke of Norf<g ref="char:EOLhyphen"/>folke, &amp; specially to that vngratious Priest named the Bisshop of Resse (the Instru<g ref="char:EOLhyphen"/>ment of all the Dukes calamitie, and the Séede man of all Treasons againste this Realme) that this enterprise must be kept secret, and namely from the French, for certayne respectes not of small moment, as is sayd, vntyll the Messenger should post to Rome to the Pope for money, &amp; to the king of Spayne for order and direction for men and Ships. The Messenger had his Let<g ref="char:EOLhyphen"/>ters of Credit from the Scottish Quéene, the Duke, and others to the Pope, and the Kinge of Spayne. And so commynge to Rome: he retourned Letters from the Popes gratious hollynes in the beginning of May to the said Quéene, and to the Duke
+<pb facs="tcp:22817:4"/>and others. The Letter to the Duke was in Latin, begynning, <hi>Dilecte fili, Salutem.</hi> But in dée de the Duke might well saye he sent not <hi>Salutem</hi> but <hi>perniciem.</hi> The Duke had them, and red them by the inter<g ref="char:EOLhyphen"/>cession of that aforesaid vngracious Priest. The contentes in som parte were, that the Pope well allowed of the enterprise: Hée would write also to the king of Spayne to further it, but his present busynes of the chargeable Warres than in preparyng a<g ref="char:EOLhyphen"/>gainst the Turke, was the cause that Ma<g ref="char:EOLhyphen"/>ney could not then be had for that Sōmer: And yet his vngracious Holynes after his accustomed sorte comforted them all not to dispaire: So it appeareth that God yet or<g ref="char:EOLhyphen"/>deyned him eyther to be so zelous against the Turke, whiche surely was a good acte, or els his Holynesse Coffers are not now a dayes so full of Money as his Bulles are of Thunderclappes, so as the lack of mo<g ref="char:EOLhyphen"/>ney at that time happely stayed the prose<g ref="char:EOLhyphen"/>cution to ful effect of this dangerous trea<g ref="char:EOLhyphen"/>son: And so it is to be heaped that by the same goodnesse of God, the mischiefe here<g ref="char:EOLhyphen"/>after ment shall be dinerted.</p>
+            <p>It was also by the deuisors of these rebel lione &amp; inuasions determined y<seg rend="sup">t</seg> the Realm of Irelande should be assayled at the same
+<pb facs="tcp:22817:5"/>tyme therby to weaken the Quéenes Ma<g ref="char:EOLhyphen"/>iesties Forces, or to diuert them from De<g ref="char:EOLhyphen"/>fence of herselfe and her good Subiectes.</p>
+            <p>Now wer it best to leaue w<seg rend="sup">t</seg> these former Braunches, for it is credibly said, that this Trée of Treason &amp; Rebellion hath a nom<g ref="char:EOLhyphen"/>ber of other Branches of the very lyke na<g ref="char:EOLhyphen"/>ture: That is, indeuisinge how the Scot<g ref="char:EOLhyphen"/>tish Quéene should haue ben conueyeda<g ref="char:EOLhyphen"/>waye, somtyme by disguising, somtyme by playne force, and raising of Rebellion: and so put to lybertie, and proclaymed Quéene of England and Scotland: but to encrease the error of her Style: she should haue ben proclaymed Kyng and Quéene of England and Scotlande. It might be also repor<g ref="char:EOLhyphen"/>ted how her Sonne should haue benstolne out of Scotlande, to be sent into Spayne, with suche lyke deuises tendyng to mooue troubles in the Realme, that was and yet is (thanked be God) quiet.</p>
+            <p>And now it may be that some wyll saye, that many of these thinges are doubtfull, and percase wreasted in reporte, eyther by malyce, or by ouermuch credulitie: But truclye in suche credible sorte are all the thynges aboue mentioned, with sundrye others to mée reported to bée verye true by
+<pb facs="tcp:22817:5"/>suche as haue cause to know them and, vse not to reporte vntrouthes, as I doo bouldly a now them to be true. And yf they shall be found otherwise, then it is lykely that som of the Quéenes Maiesties Counsell wyll cause them to be reprehended, who vpon this my wrytynge shall reporte them, and there vpon I wyll paciently suffer corre<g ref="char:EOLhyphen"/>ction for my hastye Credit: for it is moste lykely that such matters of estate as these are, wyll not be suffred to be communica<g ref="char:EOLhyphen"/>ted w<seg rend="sup">t</seg> out reprehencion. On the other side, yf they be true, as I haue reported, and yet not fully ynough reported, than tyme wyll shortly enlarge and confirme them, when her Maiestie shal cause the parties now im prisoned to answeare openly therto, by or<g ref="char:EOLhyphen"/>der of her Lawes, as there is no doubt but shée wyl obserue to all maner of Subiectes that course as hetherto manifestly &amp; graci<g ref="char:EOLhyphen"/>ously she hath don, and so God longe kéepe her vnder his speciall protection, as hither<g ref="char:EOLhyphen"/>too he hath miraculously, to raygne ouer vs in peace.</p>
+            <p>Since I wrote this, I am y<seg rend="sup">e</seg> more bolde<g ref="char:EOLhyphen"/>ned to think all these thynges true, for that this present daye the Lorde Maior of this Citie of London with a nomber of his Bre<g ref="char:EOLunhyphen"/>thern were at the Starre Chamber with
+<pb facs="tcp:22817:6"/>the Quéenes Maiesties Counsell, where I vnderstande by report of some of them that hard what was said by the Counsel to them concernyng the present case of the Duke of Norfolke that the substance of all that is by me before reported, is verye true, with muche more.</p>
+            <closer>
+               <dateline>At London <date>the .xjij. of October. 1571.</date>
+               </dateline>
+               <signed>Your louyng Brother in Lawe. <hi>R. G.</hi>
+               </signed>
+            </closer>
+            <pb facs="tcp:22817:6"/>
+         </div>
+      </body>
+   </text>
+</TEI>
